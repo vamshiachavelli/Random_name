@@ -36,7 +36,7 @@ If you encounter any bugs or have suggestions for improvements, please feel free
 
 ## About
 
-This project is part of my personal challenge to create something new every day for 100 days. Follow along with my journey on [GitHub](https://github.com/yourusername)!
+This project is part of my personal challenge to create something new every day for 100 days. Follow along with my journey on [GitHub](https://github.com/vamshiachavelli)!
 
 ## Day 5 Preview
 
